@@ -15,8 +15,15 @@ Pelase go to https://github.com/xahidbuffon/Awesome_Underwater_Datasets which in
 
 * `BMVC2023` Five A+ Network: You Only Need 9KParameters for Underwater Image Enhancement [[Paper]](https://arxiv.org/abs/2305.08824#:~:text=In%20this%20work%2C%20we%20propose%20the%20Five%20A,FA%20%2B%20Net%20employs%20a%20two-stage%20enhancement%20structure.) [[Code]](https://github.com/Owen718/FiveAPlus-Network)
 
-* `TIP2023` Five A+ Network: You Only Need 9KParameters for Underwater Image Enhancement [[Paper]](https://arxiv.org/abs/2111.11843) [[Code]](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement)
+* `TIP2023` PUGAN: Physical Model-Guided Underwater Image Enhancement Using GAN with Dual-Discriminators [[Paper]](https://ieeexplore.ieee.org/document/10155564) [[Code]](https://github.com/rmcong/PUGAN_TIP2023)
 
+* `TIP2022` U-shape Transformer for Underwater Image Enhancement [[Paper]](https://arxiv.org/abs/2111.11843) [[Code]](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement)
+
+* `TGRS2022` Reinforced Swin-Convs Transformer for Simultaneous Underwater Sensing Scene Image Enhancement and Super-resolution [[Paper]](https://arxiv.org/abs/2205.00434v1) [[Code]](https://github.com/TingdiRen/URSCT-SESR)
+
+* `TIP2019` An Underwater Image Enhancement Benchmark Dataset and Beyond [[Paper]](https://ar5iv.labs.arxiv.org/html/1901.05495) [[Code]](https://github.com/Li-Chongyi/Water-Net_Code)
+
+* `TIP2020` Underwater Image Enhancement via Medium Transmission-Guided Multi-Color Space Embedding [[Paper]](https://ieeexplore.ieee.org/document/9426457) [[Code]](https://github.com/Li-Chongyi/Ucolor)
 
 ## Metrics
 
