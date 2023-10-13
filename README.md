@@ -7,7 +7,24 @@ Questions and discussions are most welcome! Upcoming works will be updated on a 
 
 ## Underwater Image Datasets
 
-Pelase go to https://github.com/xahidbuffon/Awesome_Underwater_Datasets which includes image enhancement, color correction/restoration and super-resoulution datasets.
+### Image Enhancement / Restoration
+
+- LSUI dataset: [Data](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement), [Paper](https://arxiv.org/abs/2111.11843). (paired, Utrans)
+- UFO dataset: [Data](http://irvlab.cs.umn.edu/resources/ufo-120-dataset), [Paper](https://arxiv.org/abs/2002.01155v1). (paired, super-resolution, SESR)
+- EUVP dataset: [Data](http://irvlab.cs.umn.edu/resources/euvp-dataset), [Paper](https://arxiv.org/abs/1903.09766), [Code](https://github.com/xahidbuffon/funie-gan). (paired and unpaired data; FUnIE-GAN)
+- UIEB / UIEBD dataset: [Data](https://li-chongyi.github.io/proj_benchmark.html), [Paper](https://arxiv.org/abs/1901.05495), [Code](https://github.com/Li-Chongyi/Water-Net_Code). (Water-Net)
+- SQUID dataset: [Data](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/ambient_forwardlooking/index.html), [Paper](https://arxiv.org/abs/1811.01343), [Code](https://github.com/danaberman/underwater-hl). (Underwater-HL)
+- U-45: [Data](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-), [Paper](https://arxiv.org/abs/1906.06819). (UDAE)
+- RUIE benchmark: [Data](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark), [Paper](https://arxiv.org/abs/1901.05320). (RUIE-Net)
+- Jamaica port royal: [Data](https://github.com/kskin/data), [Paper](https://arxiv.org/abs/1702.07392), [Code](https://github.com/kskin/WaterGAN/). (Water-GAN)
+- Virtual periscope: [Data](http://webee.technion.ac.il/~yoav/research/random_distort.html), [Paper](https://ieeexplore.ieee.org/abstract/document/7448905).
+- Color restoration: [Data](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/ambient_forwardlooking/index.html), [Paper](https://arxiv.org/abs/1811.01343), [Code](https://github.com/danaberman/underwater-hl).
+- TURBID data: [Data](http://amandaduarte.com.br/turbid/), [Paper](https://ieeexplore.ieee.org/abstract/document/7485524).
+- OceanDark dataset: [Data](https://sites.google.com/view/oceandark/home), [Paper](https://www.mdpi.com/2313-433X/5/10/79).
+- - Underwater imagenet: [Data](http://irvlab.cs.umn.edu/resources/), [Paper](https://ieeexplore.ieee.org/document/8460552), [Code](https://github.com/cameronfabbri/Underwater-Color-Correction). (paired data; UGAN)
+
+### Others (super-resolution and ...)
+Pelase go to https://github.com/xahidbuffon/Awesome_Underwater_Datasets which also includes image enhancement, super-resoulution, object detection, image segmentation and other datasets.
 
 ## Papers and Codes
 
@@ -24,6 +41,8 @@ Pelase go to https://github.com/xahidbuffon/Awesome_Underwater_Datasets which in
 * `TIP2019` An Underwater Image Enhancement Benchmark Dataset and Beyond [[Paper]](https://ar5iv.labs.arxiv.org/html/1901.05495) [[Code]](https://github.com/Li-Chongyi/Water-Net_Code)
 
 * `TIP2020` Underwater Image Enhancement via Medium Transmission-Guided Multi-Color Space Embedding [[Paper]](https://ieeexplore.ieee.org/document/9426457) [[Code]](https://github.com/Li-Chongyi/Ucolor)
+
+* `RSS2020` Simultaneous Enhancement and Super-Resolution of Underwater Imagery for Improved Visual Perception [[Paper]](https://www.roboticsproceedings.org/rss16/p018.pdf) [[Code]](https://github.com/xahidbuffon/Deep_SESR)
 
 ## Metrics
 
