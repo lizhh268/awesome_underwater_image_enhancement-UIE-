@@ -21,7 +21,7 @@ Questions and discussions are most welcome! Upcoming works will be updated on a 
 - Color restoration: [Data](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/ambient_forwardlooking/index.html), [Paper](https://arxiv.org/abs/1811.01343), [Code](https://github.com/danaberman/underwater-hl).
 - TURBID data: [Data](http://amandaduarte.com.br/turbid/), [Paper](https://ieeexplore.ieee.org/abstract/document/7485524).
 - OceanDark dataset: [Data](https://sites.google.com/view/oceandark/home), [Paper](https://www.mdpi.com/2313-433X/5/10/79).
-- - Underwater imagenet: [Data](http://irvlab.cs.umn.edu/resources/), [Paper](https://ieeexplore.ieee.org/document/8460552), [Code](https://github.com/cameronfabbri/Underwater-Color-Correction). (paired data; UGAN)
+- Underwater imagenet: [Data](http://irvlab.cs.umn.edu/resources/), [Paper](https://ieeexplore.ieee.org/document/8460552), [Code](https://github.com/cameronfabbri/Underwater-Color-Correction). (paired data; UGAN)
 
 ### Others (super-resolution and ...)
 Pelase go to https://github.com/xahidbuffon/Awesome_Underwater_Datasets which also includes image enhancement, super-resoulution, object detection, image segmentation and other datasets.
