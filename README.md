@@ -10,6 +10,7 @@ Questions and discussions are most welcome! Upcoming works will be updated on a 
 ### Image Enhancement / Restoration
 
 - LSUI dataset: [Data](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement), [Paper](https://arxiv.org/abs/2111.11843). (paired, Utrans)
+- SUIM-E dataset: [Data](https://github.com/trentqq/SUIM-E), [Paper](https://ieeexplore.ieee.org/document/9930878). (paired, SGUIE-Net)
 - UFO dataset: [Data](http://irvlab.cs.umn.edu/resources/ufo-120-dataset), [Paper](https://arxiv.org/abs/2002.01155v1). (paired, super-resolution, SESR)
 - EUVP dataset: [Data](http://irvlab.cs.umn.edu/resources/euvp-dataset), [Paper](https://arxiv.org/abs/1903.09766), [Code](https://github.com/xahidbuffon/funie-gan). (paired and unpaired data; FUnIE-GAN)
 - UIEB / UIEBD dataset: [Data](https://li-chongyi.github.io/proj_benchmark.html), [Paper](https://arxiv.org/abs/1901.05495), [Code](https://github.com/Li-Chongyi/Water-Net_Code). (Water-Net)
@@ -35,6 +36,8 @@ Pelase go to https://github.com/xahidbuffon/Awesome_Underwater_Datasets which al
 * `TIP2023` PUGAN: Physical Model-Guided Underwater Image Enhancement Using GAN with Dual-Discriminators [[Paper]](https://ieeexplore.ieee.org/document/10155564) [[Code]](https://github.com/rmcong/PUGAN_TIP2023)
 
 * `TIP2022` U-shape Transformer for Underwater Image Enhancement [[Paper]](https://arxiv.org/abs/2111.11843) [[Code]](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement)
+
+* `TIP2022` SGUIE-Net: Semantic Attention Guided Underwater Image Enhancement With Multi-Scale Perception [[Paper]](https://ieeexplore.ieee.org/document/9930878) [[Code]](https://github.com/trentqq/SGUIE-Net_Simple)
 
 * `TGRS2022` Reinforced Swin-Convs Transformer for Simultaneous Underwater Sensing Scene Image Enhancement and Super-resolution [[Paper]](https://arxiv.org/abs/2205.00434v1) [[Code]](https://github.com/TingdiRen/URSCT-SESR)
 
