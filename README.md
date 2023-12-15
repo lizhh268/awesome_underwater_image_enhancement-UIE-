@@ -1,3 +1,5 @@
+![](https://github.com/lizhh268/awesome_underwater_image_enhancement-UIE-/blob/main/uie.png)
+
 # Awesome_Underwater_Image_Enhancement-UIE-
 A repository of the latest work related to underwater image enhancement (awaiting continuous updates). 
 We hope this can be of assistance!
