@@ -16,6 +16,7 @@ Questions and discussions are most welcome! Upcoming works will be updated on a 
 - UFO dataset: [Data](http://irvlab.cs.umn.edu/resources/ufo-120-dataset), [Paper](https://arxiv.org/abs/2002.01155v1). (paired, super-resolution, SESR)
 - EUVP dataset: [Data](http://irvlab.cs.umn.edu/resources/euvp-dataset), [Paper](https://arxiv.org/abs/1903.09766), [Code](https://github.com/xahidbuffon/funie-gan). (paired and unpaired data; FUnIE-GAN)
 - UIEB / UIEBD dataset: [Data](https://li-chongyi.github.io/proj_benchmark.html), [Paper](https://arxiv.org/abs/1901.05495), [Code](https://github.com/Li-Chongyi/Water-Net_Code). (Water-Net)
+- UVEB dataset: [Data](https://github.com/yzbouc/UVEB), [Paper](https://arxiv.org/abs/2404.14542), [Code](https://github.com/yzbouc/UVEB). (video data; UVE-Net)
 - SQUID dataset: [Data](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/ambient_forwardlooking/index.html), [Paper](https://arxiv.org/abs/1811.01343), [Code](https://github.com/danaberman/underwater-hl). (Underwater-HL)
 - U-45: [Data](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-), [Paper](https://arxiv.org/abs/1906.06819). (UDAE)
 - RUIE benchmark: [Data](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark), [Paper](https://arxiv.org/abs/1901.05320). (RUIE-Net)
@@ -32,6 +33,7 @@ Pelase go to https://github.com/xahidbuffon/Awesome_Underwater_Datasets which al
 ## Papers and Codes
 
 ### Underwater Image Enhancement
+* `CVPR2024` UVEB: A Large-scale Benchmark and Baseline Towards Real-World Underwater Video Enhancement [[Paper]](https://arxiv.org/abs/2404.14542.) [[Code]](https://github.com/yzbouc/UVEB)
 
 * `BMVC2023` Five A+ Network: You Only Need 9KParameters for Underwater Image Enhancement [[Paper]](https://arxiv.org/abs/2305.08824#:~:text=In%20this%20work%2C%20we%20propose%20the%20Five%20A,FA%20%2B%20Net%20employs%20a%20two-stage%20enhancement%20structure.) [[Code]](https://github.com/Owen718/FiveAPlus-Network)
 
