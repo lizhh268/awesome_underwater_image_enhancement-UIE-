@@ -28,13 +28,14 @@ Questions and discussions are most welcome! Upcoming works will be updated on a 
 - Underwater imagenet: [Data](http://irvlab.cs.umn.edu/resources/), [Paper](https://ieeexplore.ieee.org/document/8460552), [Code](https://github.com/cameronfabbri/Underwater-Color-Correction). (paired data; UGAN)
 
 ### Others (super-resolution and ...)
-Pelase go to https://github.com/xahidbuffon/Awesome_Underwater_Datasets which also includes image enhancement, super-resoulution, object detection, image segmentation and other datasets.
+Please go to https://github.com/xahidbuffon/Awesome_Underwater_Datasets, which also includes image enhancement, super-resolution, object detection, image segmentation, and other datasets.
 
 ## Papers and Codes
 
 ### Underwater Image Enhancement
-* `KBS2025` SPMFormer: Simplified Physical Model-based Transformer with cross-space loss for Underwater Image Enhancement [[Code]](https://github.com/lizhh268/SPMFormer)
-* `CVPR2024` UVEB: A Large-scale Benchmark and Baseline Towards Real-World Underwater Video Enhancement [[Paper]](https://arxiv.org/abs/2404.14542.) [[Code]](https://github.com/yzbouc/UVEB)
+* `KBS2025` SPMFormer: Simplified Physical Model-based Transformer with cross-space loss for Underwater Image Enhancement [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705125007403?via%3Dihub) [[Code]](https://github.com/lizhh268/SPMFormer)
+* `CVPR2024` Wavelet-based Fourier Information Interaction with Frequency Diffusion Adjustment for Underwater Image Restoration [[Paper]](https://arxiv.org/abs/2311.16845) [[Code]](https://github.com/zhihefang/wf-diff)
+* `CVPR2024` UVEB: A Large-scale Benchmark and Baseline Towards Real-World Underwater Video Enhancement [[Paper]](https://arxiv.org/abs/2404.14542) [[Code]](https://github.com/yzbouc/UVEB)
 
 * `BMVC2023` Five A+ Network: You Only Need 9KParameters for Underwater Image Enhancement [[Paper]](https://arxiv.org/abs/2305.08824#:~:text=In%20this%20work%2C%20we%20propose%20the%20Five%20A,FA%20%2B%20Net%20employs%20a%20two-stage%20enhancement%20structure.) [[Code]](https://github.com/Owen718/FiveAPlus-Network)
 
