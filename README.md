@@ -59,6 +59,7 @@ Please go to https://github.com/xahidbuffon/Awesome_Underwater_Datasets, which a
 
 * PSNR (Peak Signal-to-Noise Ratio) [[Wiki]](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio) [[Matlab Code]](https://www.mathworks.com/help/images/ref/psnr.html) [[Python Code]](https://github.com/aizvorski/video-quality)
 * SSIM (Structural similarity) [[Wiki]](https://en.wikipedia.org/wiki/Structural_similarity) [[Matlab Code]](http://www.cns.nyu.edu/~lcv/ssim/ssim_index.m) [[Python Code]](https://github.com/aizvorski/video-quality/blob/master/ssim.py)
+* JLD (Perceptual Distance Through A Jacobian Lens) [[Paper]](https://arxiv.org/abs/2610.05967) [[Python Code]](https://github.com/shreshthsaini/jld)
 
 ### Non-Reference Evaluation
 * UCIQE (Underwater Colour Image Quality Evaluation) A metric uses a linear combination of chromaticity, saturation, and contrast to quantify the uneven color cast, blurriness, and low contrast characteristics of underwater engineering and surveillance images. [Paper: An Underwater Colour Image Quality Evaluation Metric]
